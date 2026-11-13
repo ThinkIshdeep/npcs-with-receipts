@@ -1,0 +1,20 @@
+{
+  "results": [
+    {
+      "project": "npcs",
+      "status": "passed",
+      "seconds": 0.0003443059995333897,
+      "evaluation": {
+        "checks": {
+          "private_observation": true,
+          "one_hop_rumour": true,
+          "distant_character_unaware": true,
+          "coin_conservation": true,
+          "debt_repaid": true
+        },
+        "note": "Deterministic world invariants; believability requires a human study."
+      },
+      "additional": {}
+    }
+  ]
+}

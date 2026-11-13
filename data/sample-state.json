@@ -1,0 +1,97 @@
+{
+  "day": 1,
+  "player_money": 100,
+  "debts": {},
+  "events": [],
+  "npcs": [
+    {
+      "id": 0,
+      "name": "Mira",
+      "role": "Shopkeeper",
+      "money": 150,
+      "trust": 50,
+      "location": 0,
+      "memories": [],
+      "beliefs": {},
+      "goal": "Earn money"
+    },
+    {
+      "id": 1,
+      "name": "Kabir",
+      "role": "Mechanic",
+      "money": 150,
+      "trust": 50,
+      "location": 1,
+      "memories": [],
+      "beliefs": {},
+      "goal": "Help a friend"
+    },
+    {
+      "id": 2,
+      "name": "Zoya",
+      "role": "Librarian",
+      "money": 150,
+      "trust": 50,
+      "location": 2,
+      "memories": [],
+      "beliefs": {},
+      "goal": "Keep a promise"
+    },
+    {
+      "id": 3,
+      "name": "Dev",
+      "role": "Baker",
+      "money": 150,
+      "trust": 50,
+      "location": 3,
+      "memories": [],
+      "beliefs": {},
+      "goal": "Earn money"
+    },
+    {
+      "id": 4,
+      "name": "Anya",
+      "role": "Gardener",
+      "money": 150,
+      "trust": 50,
+      "location": 0,
+      "memories": [],
+      "beliefs": {},
+      "goal": "Help a friend"
+    },
+    {
+      "id": 5,
+      "name": "Rafi",
+      "role": "Courier",
+      "money": 150,
+      "trust": 50,
+      "location": 1,
+      "memories": [],
+      "beliefs": {},
+      "goal": "Keep a promise"
+    },
+    {
+      "id": 6,
+      "name": "Tara",
+      "role": "Artist",
+      "money": 150,
+      "trust": 50,
+      "location": 2,
+      "memories": [],
+      "beliefs": {},
+      "goal": "Earn money"
+    },
+    {
+      "id": 7,
+      "name": "Neel",
+      "role": "Teacher",
+      "money": 150,
+      "trust": 50,
+      "location": 3,
+      "memories": [],
+      "beliefs": {},
+      "goal": "Help a friend"
+    }
+  ],
+  "last_result": null
+}

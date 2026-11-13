@@ -1,0 +1,15 @@
+1
+00:00:00,000 --> 00:00:07,000
+Meet the residents
+Eight characters begin with private memories, explicit trust, resources and bounded world actions.
+
+2
+00:00:07,000 --> 00:00:14,000
+Borrow from Mira
+The loan changes the coin ledger and creates a direct observation for the shopkeeper.
+
+3
+00:00:14,000 --> 00:00:21,000
+Advance one day
+A sourced rumour moves one social hop. Characters keep observations separate from hearsay.
+

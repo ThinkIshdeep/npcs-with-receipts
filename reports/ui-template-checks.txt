@@ -1,0 +1,1 @@
+{"project":"npcs","rendered":true,"wiredActions":7,"uniqueIds":1,"standaloneImports":true}

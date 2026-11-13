@@ -1,0 +1,11 @@
+[
+  {
+    "id": "npcs",
+    "name": "NPCs With Receipts",
+    "category": "Social agents",
+    "tagline": "Borrow the money. Meet the consequences.",
+    "accent": "#a9d58b",
+    "number": "03",
+    "module": "npcs"
+  }
+]

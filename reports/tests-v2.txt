@@ -1,0 +1,19 @@
+test_all_project_states (test_api.APITests.test_all_project_states) ... ok
+test_catalog (test_api.APITests.test_catalog) ... ok
+test_cross_origin_write_rejected (test_api.APITests.test_cross_origin_write_rejected) ... ok
+test_export_valid_json (test_api.APITests.test_export_valid_json) ... ok
+test_invalid_operation_rejected (test_api.APITests.test_invalid_operation_rejected) ... ok
+test_readiness (test_api.APITests.test_readiness) ... ok
+test_runs_available (test_api.APITests.test_runs_available) ... ok
+test_static_path_escape_blocked (test_api.APITests.test_static_path_escape_blocked) ... ok
+test_astar_impossible (test_domain.CoreTests.test_astar_impossible) ... ok
+test_astar_routes_around_wall (test_domain.CoreTests.test_astar_routes_around_wall) ... ok
+test_json_serialization (test_domain.CoreTests.test_json_serialization) ... ok
+test_money_conservation_and_repay (test_domain.SocialTests.test_money_conservation_and_repay) ... ok
+test_private_observation (test_domain.SocialTests.test_private_observation) ... ok
+test_rumour_provenance (test_domain.SocialTests.test_rumour_provenance) ... ok
+
+----------------------------------------------------------------------
+Ran 14 tests in 0.531s
+
+OK
